@@ -1,0 +1,2 @@
+package dio.gof.facade;public class Facade {
+}
